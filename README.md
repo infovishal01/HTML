@@ -5,7 +5,7 @@
 ---
 
 ### Author Links
-👋Hello I'm vishal Kmar
+👋Hello I'm vishal Kumar
 
 ✅ [Check out this YouTube Channel with all tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
