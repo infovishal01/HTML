@@ -7,8 +7,6 @@
 ### Author Links
 👋Hello I'm vishal Kumar
 
-✅ [Check out this YouTube Channel with all tutorials](https://www.youtube.com/DaveGrayTeachesCode).
-
 ### 📚 References
 
 - 🔗 [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
